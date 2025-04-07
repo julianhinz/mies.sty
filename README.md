@@ -16,7 +16,7 @@ It comes with two variants:
 
 ## Preview
 
-![Preview](example.png)
+![Preview](example.svg)
 
 ---
 
