@@ -1,5 +1,9 @@
 # mies.sty
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Build with LaTeX](https://img.shields.io/badge/built%20with-LaTeX-008080.svg)](#)
+[![Overleaf](https://img.shields.io/badge/open-in--overleaf-47A141?logo=overleaf&logoColor=white)](https://www.overleaf.com/docs?snip_uri=https://github.com/julianhinz/mies.sty/archive/refs/heads/main.zip)
+
 **mies.sty** is a clean and typographic LaTeX style for academic articles.  
 It emphasizes clarity, spacing, and classic design principles — inspired by Mies van der Rohe’s *less is more*.
 
